@@ -9,8 +9,4 @@ pages and mkdocs usage
 ![](Picture 648.jpg)
 
 
-
-,klk,p,k
-l,l,l,
-,l,;l,;l,
-[p](test.md)
+[test link](test.md)
